@@ -4,7 +4,7 @@ public class Two {
 
 	void print() {
 
-		System.out.println("Two");
+		System.out.println("Two&&&");
 	}
 
 }
